@@ -1,4 +1,4 @@
-# Practice
+
 <script>
 var RandomNumber = Math.floor(Math.Random() * 100) + 1;
 
@@ -10,3 +10,4 @@ var guessField = document.querySelector('.guessField');
 
 var guessCount = 1
 var resetButton;
+</script>
